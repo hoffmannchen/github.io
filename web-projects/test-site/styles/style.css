@@ -1,0 +1,29 @@
+html {
+    font-size: 1.9rem; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: 'Fira Sans', sans-serif;
+    background-color: #F4F4F4;
+}
+
+body{
+    width:800px;
+    margin: 0 auto;
+    background-color: #EAEAE7;
+    padding:0 20px 20px 20px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin: 0;
+    padding:20px 0;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+img{
+    display: block;
+    margin:0 auto;
+}
